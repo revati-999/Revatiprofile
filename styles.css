@@ -1,0 +1,58 @@
+html{
+    font-family: 'Lora', serif;
+}
+
+#div1{
+    padding:3em;
+    background-color: #F3F1F5
+}
+#div2{
+    padding:6em;
+    height:300px;
+    background-color:#F0D9FF; 
+    text-align: center;
+}
+
+#div3{
+    padding:6em;
+    height:300px;
+    background-color:#BFA2DB;
+    text-align: center;
+}
+
+#div4{
+    padding:6em;
+    height:300px;
+    background-color: #7F7C82;
+    text-align: center;
+}
+
+h1,h2{
+    text-align: center;
+}
+h2{
+    padding-top: 1em;
+}
+
+#pic{
+    float: left;
+    margin: 10px 25px 0 0;
+}
+
+#para{
+padding: 2em 1em 3em 1em;
+}
+
+
+img{
+    height:300px;
+    width: 300px;
+    
+}
+footer{
+text-align: center;
+}
+
+.icons{
+    margin: 0 8px;
+}
